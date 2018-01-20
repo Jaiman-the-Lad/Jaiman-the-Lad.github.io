@@ -74,13 +74,14 @@ table {
 }
 
 table, td {
-    border: 3.5px solid #b3b3ff;
-    background-color: hsla(242, 90%, 64%, 0.4);
+    border: 3.5px solid #lightGray;
+    background-color: #001a33;
     color: white;
 }
 
 th {
-    height: 50px;
+    background-color: #000d1a;
+	height: 50px;
     text-align: left;
 }
 
