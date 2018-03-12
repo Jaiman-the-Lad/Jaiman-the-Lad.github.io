@@ -18,11 +18,11 @@ avatar: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeF
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:jaiman.lad@challonrs.org
+  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:jaiman_lad12
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
