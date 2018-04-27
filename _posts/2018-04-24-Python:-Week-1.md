@@ -2,7 +2,7 @@
 title: Python: Week 1
 layout: post
 author: jaiman.lad
-permalink: /python:-week-1/
+permalink: /python-week-1/
 source-id: 1Q795j1DgaDlQZLH79Wor-kQg0fcZU4fQ5agtObMGXMk
 published: true
 ---
