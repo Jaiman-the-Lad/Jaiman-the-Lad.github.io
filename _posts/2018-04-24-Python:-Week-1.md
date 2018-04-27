@@ -1,5 +1,5 @@
 ---
-title: Python: Week 1
+title: Python Week 1
 layout: post
 author: jaiman.lad
 permalink: /python-week-1/
